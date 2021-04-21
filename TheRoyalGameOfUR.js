@@ -85,7 +85,7 @@ function Lancer_4D(){
 	return pile;
 }
 
-//Fonction qui néinitialise à 0 la position d'un pion en particulier 
+//Fonction qui réinitialise à 0 la position d'un pion en particulier 
 function ReinitializePionJoueur(Value) {	
 	jsonPion[Value]=0;	
 }
